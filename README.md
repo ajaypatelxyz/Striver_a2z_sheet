@@ -18,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0735-asteroid-collision) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0402-remove-k-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -36,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+## String
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0402-remove-k-digits) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
