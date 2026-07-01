@@ -87,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0958-check-completeness-of-a-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
