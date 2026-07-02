@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## String
 |  |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0052-n-queens-ii) |
+## Hash Table
+|  |
+| ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1015-smallest-integer-divisible-by-k) |
 <!---LeetCode Topics End-->
