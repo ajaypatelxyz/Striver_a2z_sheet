@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0239-sliding-window-maximum) |
 | [0735-asteroid-collision](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0735-asteroid-collision) |
+| [0806-number-of-lines-to-write-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0806-number-of-lines-to-write-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0402-remove-k-digits) |
 | [0520-detect-capital](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0657-robot-return-to-origin) |
+| [0806-number-of-lines-to-write-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0806-number-of-lines-to-write-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Greedy
 |  |
