@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0085-maximal-rectangle) |
 | [0239-sliding-window-maximum](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0239-sliding-window-maximum) |
 | [0735-asteroid-collision](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0735-asteroid-collision) |
 | [0806-number-of-lines-to-write-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0806-number-of-lines-to-write-string) |
@@ -20,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0085-maximal-rectangle) |
 ## Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0735-asteroid-collision) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -33,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0402-remove-k-digits) |
 ## Simulation
 |  |
@@ -106,5 +110,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0085-maximal-rectangle) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 <!---LeetCode Topics End-->
