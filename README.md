@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0239-sliding-window-maximum) |
 | [0735-asteroid-collision](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0735-asteroid-collision) |
 | [0806-number-of-lines-to-write-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0806-number-of-lines-to-write-string) |
+| [1004-max-consecutive-ones-iii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0239-sliding-window-maximum) |
+| [1004-max-consecutive-ones-iii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -115,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0085-maximal-rectangle) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
