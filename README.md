@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0806-number-of-lines-to-write-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Two Pointers
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0767-reorganize-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0767-reorganize-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Queue
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0767-reorganize-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0767-reorganize-string) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Monotonic Queue
 |  |
 | ------- |
