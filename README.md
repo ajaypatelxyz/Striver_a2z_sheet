@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0657-robot-return-to-origin) |
+| [0767-reorganize-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0767-reorganize-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0806-number-of-lines-to-write-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Greedy
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0402-remove-k-digits) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0767-reorganize-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0767-reorganize-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Queue
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0767-reorganize-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0767-reorganize-string) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0767-reorganize-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0767-reorganize-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Tree
 |  |
@@ -122,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0424-longest-repeating-character-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0767-reorganize-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0767-reorganize-string) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Matrix
 |  |
@@ -144,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0023-merge-k-sorted-lists) |
+## Counting
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
