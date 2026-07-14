@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0023-merge-k-sorted-lists) |
+| [0191-number-of-1-bits](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0191-number-of-1-bits) |
 ## Merge Sort
 |  |
 | ------- |
@@ -167,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0767-reorganize-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
