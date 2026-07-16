@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0085-maximal-rectangle) |
+| [0135-candy](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0135-candy) |
 | [0239-sliding-window-maximum](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0735-asteroid-collision](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0735-asteroid-collision) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0402-remove-k-digits) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0767-reorganize-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0767-reorganize-string) |
