@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0042-trapping-rain-water) |
+| [0072-edit-distance](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0213-house-robber-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0072-edit-distance](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0072-edit-distance) |
 | [0402-remove-k-digits](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0520-detect-capital) |
