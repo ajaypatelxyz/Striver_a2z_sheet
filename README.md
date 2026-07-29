@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0043-multiply-strings) |
 | [0657-robot-return-to-origin](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1260-shift-2d-grid) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0043-multiply-strings) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0628-maximum-product-of-three-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0032-longest-valid-parentheses](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0072-edit-distance) |
 | [0402-remove-k-digits](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0424-longest-repeating-character-replacement) |
