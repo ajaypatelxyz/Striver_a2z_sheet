@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0735-asteroid-collision](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0735-asteroid-collision) |
 | [0806-number-of-lines-to-write-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0806-number-of-lines-to-write-string) |
+| [0896-monotonic-array](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0896-monotonic-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1089-duplicate-zeros](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1089-duplicate-zeros) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1130-minimum-cost-tree-from-leaf-values) |
