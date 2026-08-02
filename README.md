@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0735-asteroid-collision](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0735-asteroid-collision) |
 | [0806-number-of-lines-to-write-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0806-number-of-lines-to-write-string) |
+| [0877-stone-game](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0896-monotonic-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1089-duplicate-zeros](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1089-duplicate-zeros) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0518-coin-change-ii) |
+| [0877-stone-game](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0877-stone-game) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1137-n-th-tribonacci-number](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1143-longest-common-subsequence) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1137-n-th-tribonacci-number](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1248-count-number-of-nice-subarrays) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0877-stone-game) |
 ## Interactive
 |  |
 | ------- |
