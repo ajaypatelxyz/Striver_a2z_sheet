@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1406-stone-game-iii) |
+| [1668-maximum-repeating-substring](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1668-maximum-repeating-substring) |
 ## Stack
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0806-number-of-lines-to-write-string) |
 | [1143-longest-common-subsequence](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1143-longest-common-subsequence) |
 | [1405-longest-happy-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1405-longest-happy-string) |
+| [1668-maximum-repeating-substring](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1668-maximum-repeating-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -315,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1406-stone-game-iii) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
