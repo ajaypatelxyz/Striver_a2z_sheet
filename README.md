@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1406-stone-game-iii) |
 | [1668-maximum-repeating-substring](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1668-maximum-repeating-substring) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Stack
 |  |
 | ------- |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0338-counting-bits) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Design
 |  |
 | ------- |
