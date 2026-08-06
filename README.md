@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0198-house-robber) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0043-multiply-strings) |
+| [0062-unique-paths](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0062-unique-paths) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0628-maximum-product-of-three-numbers) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3312-sorted-gcd-pair-queries) |
 ## Enumeration
 |  |
