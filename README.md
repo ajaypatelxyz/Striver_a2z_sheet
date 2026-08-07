@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0045-jump-game-ii) |
+| [0063-unique-paths-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0063-unique-paths-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0135-candy) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0198-house-robber) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0085-maximal-rectangle) |
 | [1260-shift-2d-grid](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1260-shift-2d-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
