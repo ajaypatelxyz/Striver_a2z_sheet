@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0095-unique-binary-search-trees-ii) |
 | [0198-house-robber](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0300-longest-increasing-subsequence) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0095-unique-binary-search-trees-ii) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -238,11 +240,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0095-unique-binary-search-trees-ii) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0052-n-queens-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0095-unique-binary-search-trees-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -379,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1510-stone-game-iv) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
