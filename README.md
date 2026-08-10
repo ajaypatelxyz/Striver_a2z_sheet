@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0096-unique-binary-search-trees) |
+| [0292-nim-game](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0628-maximum-product-of-three-numbers) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0877-stone-game) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0292-nim-game) |
 | [1140-stone-game-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1510-stone-game-iv) |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1510-stone-game-iv) |
 ## Sprague–Grundy Theorem
 |  |
@@ -392,4 +396,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0096-unique-binary-search-trees) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
