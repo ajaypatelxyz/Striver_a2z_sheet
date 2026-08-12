@@ -9,6 +9,8 @@ public:
         for(int right = 0; right < n; right++){
             mp[nums[right]]++;
 
+            //if current value freq increase more then k time
+            //move left until it become <= k
             while(mp[nums[right]] > k){
                 mp[nums[left]]--;
                 left++;
