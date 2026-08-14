@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1668-maximum-repeating-substring](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1668-maximum-repeating-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1248-count-number-of-nice-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1331-rank-transform-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3731-find-missing-elements](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3731-find-missing-elements) |
 ## Matrix
