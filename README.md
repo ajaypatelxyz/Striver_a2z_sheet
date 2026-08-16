@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-remove-stones-to-minimize-the-total](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2029-stone-game-ix) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2029-stone-game-ix) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3312-sorted-gcd-pair-queries) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1405-longest-happy-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1405-longest-happy-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2029-stone-game-ix](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2029-stone-game-ix) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Queue
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0767-reorganize-string) |
+| [2029-stone-game-ix](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3312-sorted-gcd-pair-queries) |
 ## Bit Manipulation
 |  |
@@ -352,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2029-stone-game-ix) |
 ## Interactive
 |  |
 | ------- |
@@ -375,12 +380,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2029-stone-game-ix) |
 ## String Matching
 |  |
 | ------- |
@@ -398,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
