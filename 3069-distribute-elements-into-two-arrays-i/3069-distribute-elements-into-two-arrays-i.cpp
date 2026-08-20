@@ -14,7 +14,10 @@ public:
             }
         }
         vector<int> ans = arr1;
-        ans.insert(ans.end(), arr2.begin(), arr2.end());
+        for(auto x: arr2){
+            ans.push_back(x);
+        }
+        // ans.insert(ans.end(), arr2.begin(), arr2.end());
         return ans;
     }
 };
