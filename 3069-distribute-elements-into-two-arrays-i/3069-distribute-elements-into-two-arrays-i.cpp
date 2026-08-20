@@ -1,11 +1,11 @@
 class Solution {
 public:
     vector<int> resultArray(vector<int>& nums) {
-        // if(nums.empty()) return 0;
-        vector<int> arr1;
-        vector<int> arr2;
+        vector<int> arr1, arr2;
+
         arr1.push_back(nums[0]);
-        if(nums.size() >= 2) arr2.push_back(nums[1]);
+        arr2.push_back(nums[1]);
+
         for(int i = 2; i < nums.size(); i++){
             if(arr1.back() > arr2.back()){
                 arr1.push_back(nums[i]);
@@ -13,11 +13,7 @@ public:
                 arr2.push_back(nums[i]);
             }
         }
-        vector<int> ans = arr1;
-        for(auto x: arr2){
-            ans.push_back(x);
-        }
-        // ans.insert(ans.end(), arr2.begin(), arr2.end());
-        return ans;
+        arr1.insert(arr1.end(), arr2.begin(), arr2.end());
+        return arr1;
     }
 };
