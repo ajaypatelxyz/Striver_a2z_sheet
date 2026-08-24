@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1563-stone-game-v) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1929-concatenation-of-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1563-stone-game-v) |
 | [1668-maximum-repeating-substring](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1668-maximum-repeating-substring) |
+| [1872-stone-game-viii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1872-stone-game-viii) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2029-stone-game-ix) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1248-count-number-of-nice-subarrays) |
+| [1872-stone-game-viii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3312-sorted-gcd-pair-queries) |
 ## Divide and Conquer
 |  |
@@ -374,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2029-stone-game-ix) |
 ## Interactive
@@ -399,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -406,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2029-stone-game-ix) |
 ## String Matching
 |  |
