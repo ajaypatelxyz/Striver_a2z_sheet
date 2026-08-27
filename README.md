@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2029-stone-game-ix) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Queue
 |  |
 | ------- |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0767-reorganize-string) |
 | [2029-stone-game-ix](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3312-sorted-gcd-pair-queries) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -366,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Design
 |  |
