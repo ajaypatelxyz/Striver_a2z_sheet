@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1927-sum-game) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2029-stone-game-ix](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
