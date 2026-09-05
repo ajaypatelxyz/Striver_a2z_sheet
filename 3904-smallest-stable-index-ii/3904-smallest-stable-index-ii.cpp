@@ -10,17 +10,17 @@ public:
         }
 
         int prefixMax = INT_MIN;
-        int index = INT_MAX;
+        // int index = INT_MAX;
         for(int i = 0; i < n; i++){
 
             prefixMax = max(prefixMax, nums[i]);
             int instability = prefixMax - suffixMin[i];
 
-            if(instability <= k && index > i){
-                index = i;
+            if(instability <= k){
+                return i;
             }
         }
-        if(index == INT_MAX) return -1;
-        return index;
+        // if(index == INT_MAX) return -1;
+        return -1;
     }
 };
