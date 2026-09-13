@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0735-asteroid-collision](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0735-asteroid-collision) |
 | [0806-number-of-lines-to-write-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0806-number-of-lines-to-write-string) |
+| [0835-image-overlap](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0896-monotonic-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1004-max-consecutive-ones-iii) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0085-maximal-rectangle) |
+| [0835-image-overlap](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1260-shift-2d-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3568-minimum-moves-to-clean-the-classroom) |
