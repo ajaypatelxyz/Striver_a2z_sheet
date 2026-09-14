@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1137-n-th-tribonacci-number](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1137-n-th-tribonacci-number) |
@@ -502,4 +503,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
