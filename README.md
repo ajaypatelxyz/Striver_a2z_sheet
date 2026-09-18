@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1143-longest-common-subsequence) |
 | [1405-longest-happy-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1405-longest-happy-string) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1668-maximum-repeating-substring](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1668-maximum-repeating-substring) |
 | [1927-sum-game](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1386-cinema-seat-allocation](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1386-cinema-seat-allocation) |
 | [1405-longest-happy-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1405-longest-happy-string) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1927-sum-game) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0767-reorganize-string) |
 | [1331-rank-transform-of-an-array](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
