@@ -1,7 +1,7 @@
 class Solution {
 public:
     int smallestIndex(vector<int>& nums) {
-        int minIdx = INT_MAX;
+        // int minIdx = INT_MAX;
         for(int i = 0; i < nums.size(); i++){
             string s = to_string(nums[i]);
             int sum = 0;
@@ -9,10 +9,9 @@ public:
                 sum += (s[j] - '0');
             }
             if(sum == i){
-                minIdx = min(minIdx, i);
+                return i;
             }
         }
-        if(minIdx == INT_MAX) return -1;
-        return minIdx;
+        return -1;
     }
 };
