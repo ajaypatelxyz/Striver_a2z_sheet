@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0735-asteroid-collision) |
+| [1096-brace-expansion-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1096-brace-expansion-ii) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0767-reorganize-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0806-number-of-lines-to-write-string) |
 | [0940-distinct-subsequences-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1143-longest-common-subsequence) |
 | [1405-longest-happy-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1405-longest-happy-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0767-reorganize-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0767-reorganize-string) |
+| [1096-brace-expansion-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0322-coin-change) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
@@ -338,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0052-n-queens-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0052-n-queens-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0095-unique-binary-search-trees-ii) |
+| [1096-brace-expansion-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1096-brace-expansion-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -347,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0767-reorganize-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0767-reorganize-string) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1096-brace-expansion-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1096-brace-expansion-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1386-cinema-seat-allocation) |
