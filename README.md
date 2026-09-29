@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1386-cinema-seat-allocation) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1406-stone-game-iii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1386-cinema-seat-allocation) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0767-reorganize-string) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2029-stone-game-ix](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
