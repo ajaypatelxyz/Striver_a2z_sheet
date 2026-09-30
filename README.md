@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0198-house-robber) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0213-house-robber-ii) |
