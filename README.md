@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0045-jump-game-ii) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0072-edit-distance) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0022-generate-parentheses) |
 | [0052-n-queens-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0052-n-queens-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0095-unique-binary-search-trees-ii) |
 | [1096-brace-expansion-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1096-brace-expansion-ii) |
@@ -574,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
