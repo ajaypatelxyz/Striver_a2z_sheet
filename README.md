@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0518-coin-change-ii) |
+| [0678-valid-parenthesis-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0940-distinct-subsequences-ii) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1130-minimum-cost-tree-from-leaf-values) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0735-asteroid-collision) |
 | [1096-brace-expansion-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0767-reorganize-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0806-number-of-lines-to-write-string) |
 | [0940-distinct-subsequences-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0940-distinct-subsequences-ii) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0410-split-array-largest-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0678-valid-parenthesis-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0767-reorganize-string) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1386-cinema-seat-allocation](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1386-cinema-seat-allocation) |
@@ -579,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
