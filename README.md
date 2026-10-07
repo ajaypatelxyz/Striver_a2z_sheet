@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0301-remove-invalid-parentheses) |
 | [0392-is-subsequence](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0424-longest-repeating-character-replacement) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0322-coin-change) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1096-brace-expansion-ii) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0022-generate-parentheses) |
 | [0052-n-queens-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0052-n-queens-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0095-unique-binary-search-trees-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1096-brace-expansion-ii) |
 ## Hash Table
 |  |
