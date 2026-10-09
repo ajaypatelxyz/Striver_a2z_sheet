@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1143-longest-common-subsequence) |
 | [1405-longest-happy-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1405-longest-happy-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1668-maximum-repeating-substring](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1668-maximum-repeating-substring) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1386-cinema-seat-allocation) |
 | [1405-longest-happy-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1405-longest-happy-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1927-sum-game) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -598,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
