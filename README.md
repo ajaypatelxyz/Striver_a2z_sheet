@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3499-maximize-active-section-with-trade-i) |
