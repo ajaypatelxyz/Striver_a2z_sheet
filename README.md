@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1668-maximum-repeating-substring](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1668-maximum-repeating-substring) |
 | [1872-stone-game-viii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1872-stone-game-viii) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1927-sum-game) |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0096-unique-binary-search-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -386,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0096-unique-binary-search-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Backtracking
 |  |
@@ -468,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0023-merge-k-sorted-lists) |
 | [0191-number-of-1-bits](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0191-number-of-1-bits) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Merge Sort
 |  |
 | ------- |
@@ -501,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3312-sorted-gcd-pair-queries) |
 ## Enumeration
@@ -542,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1137-n-th-tribonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Recursion
 |  |
 | ------- |
@@ -592,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0096-unique-binary-search-trees) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Brainteaser
 |  |
 | ------- |
@@ -603,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Geometry
 |  |
@@ -634,4 +644,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
