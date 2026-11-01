@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0416-partition-equal-subset-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0628-maximum-product-of-three-numbers) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0096-unique-binary-search-trees) |
 | [0292-nim-game](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0836-rectangle-overlap) |
