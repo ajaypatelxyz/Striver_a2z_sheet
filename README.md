@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1406-stone-game-iii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1406-stone-game-iii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0392-is-subsequence](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0392-is-subsequence) |
 | [1089-duplicate-zeros](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1089-duplicate-zeros) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0767-reorganize-string) |
 | [1096-brace-expansion-ii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2089-find-target-indices-after-sorting-array) |
