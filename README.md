@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1882-process-tasks-using-servers) |
 | [1929-concatenation-of-array](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1929-concatenation-of-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/0767-reorganize-string) |
 | [1405-longest-happy-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1405-longest-happy-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1882-process-tasks-using-servers) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
