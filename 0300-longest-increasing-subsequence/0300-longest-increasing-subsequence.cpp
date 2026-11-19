@@ -1,33 +1,60 @@
 class Solution {
 public:
-    int solveLIS(vector<int> &nums){
-        vector<vector<int>> dp(nums.size()+1, vector<int> (nums.size()+1, 0));
-        // if(curr >= nums.size()){
-        //     return 0;
-        // }
-        // //Check answer is already exists or not
-        // if(dp[curr][prev+1] != -1){
-        //     return dp[curr][prev+1];
-        // }
+    int solveUsingRecursion(vector<int>& nums, int curr, int prev){
+        if(curr >= nums.size()){
+            return 0;
+        }
 
-        for(int curr = nums.size() - 1; curr >= 0; curr--){
+        int include = 0;
+        if(prev == -1 || nums[curr] > nums[prev]){
+            include = 1 + solveUsingRecursion(nums, curr + 1, curr);
+        }
+        int exclude = 0 + solveUsingRecursion(nums, curr + 1, prev);
+        int ans = max(include, exclude);
+        return ans;
+    }
+
+    int solveUsingMem(vector<int>& nums, int curr, int prev, vector<vector<int>> &dp){
+        if(curr >= nums.size()){
+            return 0;
+        }
+        //answer already exists
+        if(dp[curr][prev + 1] != -1){
+            return dp[curr][prev + 1];
+        }
+
+        int include = 0;
+        if(prev == -1 || nums[curr] > nums[prev]){
+            include = 1 + solveUsingMem(nums, curr + 1, curr, dp);
+        }
+        int exclude = 0 + solveUsingMem(nums, curr + 1, prev, dp);
+        dp[curr][prev + 1] = max(include, exclude);
+        return dp[curr][prev + 1];
+    }
+
+    int solveUsingTab(vector<int>& nums){
+        int n = nums.size();
+        vector<vector<int>> dp(n + 1, vector<int> (n + 1, 0));
+
+        for(int curr = n - 1; curr >= 0; curr--){
             for(int prev = curr - 1; prev >= -1; prev--){
                 int include = 0;
                 if(prev == -1 || nums[curr] > nums[prev]){
-                    include = 1 + dp[curr+1][curr+1];
+                    include = 1 + dp[curr + 1][curr + 1];
                 }
-                int exclude = 0 + dp[curr+1][prev+1];
-                dp[curr][prev+1] = max(include, exclude);
+                int exclude = 0 + dp[curr + 1][prev + 1];
+                dp[curr][prev + 1] = max(include, exclude);
             }
         }
         return dp[0][0];
     }
 
     int lengthOfLIS(vector<int>& nums) {
+        int n = nums.size();
         int curr = 0;
         int prev = -1;
-        
-        int ans = solveLIS(nums);
+        // vector<vector<int>> dp(n + 1, vector<int> (n + 1, -1));
+        int ans = solveUsingTab(nums);
         return ans;
     }
 };
