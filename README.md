@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/ajaypatelxyz/Striver_a2z_sheet/tree/master/3524-find-x-value-of-array-i) |
